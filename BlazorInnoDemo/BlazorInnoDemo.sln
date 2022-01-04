@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorInnoDemo.Wpf", "BlazorInnoDemo.Wpf\BlazorInnoDemo.Wpf.csproj", "{4A920C2E-FB36-4DDB-B83C-8D7CACE0CA60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorInnoDemo.SharedBlazor", "BlazorInnoDemo.SharedBlazor\BlazorInnoDemo.SharedBlazor.csproj", "{B74144FA-3AB5-4610-95EF-DB95DA31D238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A920C2E-FB36-4DDB-B83C-8D7CACE0CA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A920C2E-FB36-4DDB-B83C-8D7CACE0CA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A920C2E-FB36-4DDB-B83C-8D7CACE0CA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A920C2E-FB36-4DDB-B83C-8D7CACE0CA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74144FA-3AB5-4610-95EF-DB95DA31D238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74144FA-3AB5-4610-95EF-DB95DA31D238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74144FA-3AB5-4610-95EF-DB95DA31D238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74144FA-3AB5-4610-95EF-DB95DA31D238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9681E1A-0D50-4F5A-8A14-DB17292A6561}
+	EndGlobalSection
+EndGlobal
